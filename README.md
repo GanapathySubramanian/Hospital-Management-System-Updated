@@ -1,6 +1,6 @@
 # Hospital-Management-System-with-admin-page-Frontend-updated
-
-Hospital Management System using MySQL, Php.
+  A web-based application in which the patient can book the Appointment and cancel their appointment. The admin can manage all the details about booking and prescription           details, also he can add and remove doctors. The doctors can accept and reject the patient appointments and the doctor can also prescribe some medicine to the patient
+  Hospital Management System using MySQL, Php.
 
 Visit : [Live demo](https://ganapathyda-hms.000webhostapp.com/)
 ## Prerequisites
